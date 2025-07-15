@@ -1,0 +1,9 @@
+[submodule "harry-potter-mcp-server"]
+	path = harry-potter-mcp-server
+	url = git@github.com:Paul-0x5061756c/harry-potter-mcp-server.git
+[submodule "nationality-prediction-mcp-server"]
+	path = nationality-prediction-mcp-server
+	url = git@github.com:Paul-0x5061756c/nationality-prediction-mcp-server.git
+[submodule "weather-mcp-server"]
+	path = weather-mcp-server
+	url = git@github.com:Paul-0x5061756c/weather-mcp-server.git
